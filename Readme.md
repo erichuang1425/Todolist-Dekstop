@@ -18,7 +18,7 @@ PyQt6
 Installation
 
 Clone this repository:
-    git clone https://github.com/erichuang1425/todo-list-Desktop.git
+    git clone https://github.com/erichuang1425/todolist-Desktop.git
 
 Navigate to the project directory:
     cd advanced-todo-list
